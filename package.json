@@ -1,0 +1,22 @@
+{
+  "name": "ngovansonrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonngok4/NgoVanSonRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sonngok4/NgoVanSonRepo/issues"
+  },
+  "homepage": "https://github.com/sonngok4/NgoVanSonRepo#readme"
+}

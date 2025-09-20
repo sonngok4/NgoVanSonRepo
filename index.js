@@ -4,8 +4,8 @@ const http = require('http');
 // Tạo server
 const server = http.createServer((req, res) => {
   res.statusCode = 200; // Mã trạng thái OK
-  res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello World!\n');
+  res.setHeader('Content-Type', 'text/html');
+  res.end('<h1>Hello World!</h1>\n');
 });
 
 // Cổng server lắng nghe
